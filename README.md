@@ -1,0 +1,1 @@
+Here we leverage machine learning by using machine learning model we made a crop recommendation system which helps us to know the crop should be grown on the basis of quantity of Nitrogen,phosphorus, potassium and the amount of rainfall, humidity and other parameters .
